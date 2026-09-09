@@ -1,4 +1,5 @@
-# DLLM Project
+# V.O.I.D.
+Vanished Observations Imputed by DLLM
 
 This project focuses on the analysis and benchmarking of the HELOC dataset, with emphasis on preprocessing, data corruption, imputation strategies, and model evaluation in machine learning workflows.
 
